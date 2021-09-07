@@ -1,6 +1,6 @@
 {
   "name": "@uniwise/prettier-config",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "license": "Apache-3.0",
   "description": "WISEflow's base Prettier config",
   "repository": {
