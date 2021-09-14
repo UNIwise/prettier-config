@@ -19,6 +19,16 @@ module.exports = {
 };
 ```
 
+To run a prettier style check run:
+```sh
+yarn prettier --check src/
+```
+
+And to fix style errors run:
+```sh
+yarn prettier --write src/
+```
+
 ---
 
 Read the [Prettier config docs](https://prettier.io) for more information.
