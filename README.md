@@ -5,7 +5,7 @@ WISEflow's base Prettier config.
 ## Installation
 
 ```sh
-yarn add --dev @uniwise/prettier-config prettier
+yarn add --dev prettier @uniwise/prettier-config
 ```
 
 ## Usage
